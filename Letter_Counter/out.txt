@@ -1,0 +1,1 @@
+A = 0B = 0C = 0D = 0E = 1F = 0G = 0H = 1I = 0J = 0K = 0L = 0M = 0N = 0O = 2P = 0Q = 0R = 0S = 0T = 3U = 1V = 0W = 0X = 0Y = 1Z = 0a = 3b = 1c = 2d = 0e = 4f = 1g = 0h = 13i = 4j = 0k = 0l = 4m = 2n = 9o = 6p = 0q = 0r = 4s = 6t = 5u = 2v = 0w = 1x = 0y = 2z = 0
