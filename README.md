@@ -1,4 +1,4 @@
 LearningJava
 ============
 
-.java files from my first semester of programming
+All my code from my programming 1 (EECS 168) class at KU.
