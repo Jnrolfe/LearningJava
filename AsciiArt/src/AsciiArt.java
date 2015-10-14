@@ -1,8 +1,5 @@
 /**File Name: AsciiArt.java 
-	Author: James Rolfe 
-        KUID: 2630058
-	Email Address: jamesnrolfe@gmail.com
-	Homework Assignment Number: 2
+	Author: James Rolfe
 	Description: This code will take an integer from standard source then print a art scaled to the
 	  			 size of the integer. There are also 3 different art choices the user can decide from;
 	  			 stripes, checkerboard, and double diagonal. 
